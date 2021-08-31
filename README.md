@@ -4,7 +4,7 @@
 -    video descriptions for blind and visually impaired users
 - 🌱 I’m currently learning React.js, Vue.js, Kafka, Docker
 - 👯 I’m looking to collaborate on Entrepreneur and Software development ideas
-- 🤔 I’m looking to expand my connections
+- 🤔 I’m looking for Full time opportunity as a Software Engineer
 - 💬 Ask me about my goals
 - 📫 How to reach me: patilmanish1212@gmail.com
 - 😄 Pronouns: He/Him

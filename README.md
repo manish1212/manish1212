@@ -26,8 +26,6 @@
 
 <img align="left" width="32px" heigth="32px" src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/git/git-original.svg"/>
 <img align="left" width="32px" heigth="32px" src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/mysql/mysql-original.svg"/>
-<img align="left" width="32px" heigth="32px" src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/csharp/csharp-original.svg"/>
-<img align="left" width="32px" heigth="32px" src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/vim/vim-original.svg"/>
 <br/>
 
 ---
